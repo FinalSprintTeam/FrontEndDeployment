@@ -1,0 +1,18 @@
+.selectContainer{
+    display: flex;
+    justify-content: center;
+
+    padding-top: 1rem;
+    padding-left: 1rem;
+    
+}
+
+.selectContainer select{
+    width: auto;
+    margin-right: 1rem;
+}
+
+.selectContainer input{
+    width: 3rem;
+    padding: 0.5rem;
+}

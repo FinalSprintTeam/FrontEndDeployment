@@ -1,0 +1,18 @@
+.tournament-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid white;
+  padding: 1rem 0;
+  margin: 1rem 10%;
+}
+
+.tournament-item h2 {
+  margin: 0 0 0.5rem 0;
+  color: white;
+}
+
+.tournament-item h2:hover {
+  color: #00008b;
+  cursor: pointer;
+}

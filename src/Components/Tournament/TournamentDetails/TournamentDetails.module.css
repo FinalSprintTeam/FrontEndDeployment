@@ -1,0 +1,22 @@
+
+
+.table h3 {
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.icon-delete:hover{
+color: red;
+cursor: pointer;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .table h3 {
+        font-size: 2rem;
+      
+    }
+    
+}
